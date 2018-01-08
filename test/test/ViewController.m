@@ -29,6 +29,10 @@
     
 }
 
+- (void)viewDidDisappear:(BOOL)animated {
+    
+}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
