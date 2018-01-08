@@ -25,6 +25,10 @@
     NSLog(@"你好");
 }
 
+- (void)viewDidAppear:(BOOL)animated {
+    
+}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
